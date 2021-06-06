@@ -51,4 +51,4 @@ more.addEventListener("click", (e) => {
   setTimeout(function () {
     titleScroller(text.substr(1) + text.substr(0, 1));
   }, 500);
-}("Daddie0 the Nr.1 Dumbass on the internet "));
+}("Three the Nr.1 Dumbass on the internet "));
